@@ -1,4 +1,4 @@
-Social Engineering Attack Project: Credential Harvesting via Phishing Introduction to Social Engineering
+Social Engineering Attack : Credential Harvesting via Phishing Introduction to Social Engineering
 
 Social engineering is a manipulation technique that exploits human error to gain private information, access, or valuables. In cybersecurity, attackers use psychological tactics to trick individuals into divulging confidential information or performing actions that compromise security. These attacks often involve phishing emails, deceptive websites, or impersonation to achieve their objectives. 
 
